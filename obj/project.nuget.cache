@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ky7i4WilUiOZpLJz48Xvt2Ns/PO7TiFUueFQFLctB3rf2Jt7MxUUzh40L8g8DolMETDgRM6BsxvK066ik0eWsA==",
+  "success": true,
+  "projectFilePath": "/home/onnx/Escritorio/GitHub/Mods/NggaCookie/NggaCookie.csproj",
+  "expectedPackageFiles": [
+    "/home/onnx/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

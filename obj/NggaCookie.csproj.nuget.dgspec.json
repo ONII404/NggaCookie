@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/onnx/Escritorio/GitHub/Mods/NggaCookie/NggaCookie.csproj": {}
+  },
+  "projects": {
+    "/home/onnx/Escritorio/GitHub/Mods/NggaCookie/NggaCookie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/onnx/Escritorio/GitHub/Mods/NggaCookie/NggaCookie.csproj",
+        "projectName": "NggaCookie",
+        "projectPath": "/home/onnx/Escritorio/GitHub/Mods/NggaCookie/NggaCookie.csproj",
+        "packagesPath": "/home/onnx/.nuget/packages/",
+        "outputPath": "/home/onnx/Escritorio/GitHub/Mods/NggaCookie/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/onnx/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
